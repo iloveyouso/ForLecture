@@ -1,0 +1,15 @@
+/Users/ryan/Google Drive/SNU/coding/Practice/Lecture/bin/Debug/net5.0/Lecture.deps.json
+/Users/ryan/Google Drive/SNU/coding/Practice/Lecture/bin/Debug/net5.0/Lecture.runtimeconfig.json
+/Users/ryan/Google Drive/SNU/coding/Practice/Lecture/bin/Debug/net5.0/Lecture.runtimeconfig.dev.json
+/Users/ryan/Google Drive/SNU/coding/Practice/Lecture/bin/Debug/net5.0/Lecture.dll
+/Users/ryan/Google Drive/SNU/coding/Practice/Lecture/bin/Debug/net5.0/ref/Lecture.dll
+/Users/ryan/Google Drive/SNU/coding/Practice/Lecture/bin/Debug/net5.0/Lecture.pdb
+/Users/ryan/Google Drive/SNU/coding/Practice/Lecture/obj/Debug/net5.0/Lecture.csproj.AssemblyReference.cache
+/Users/ryan/Google Drive/SNU/coding/Practice/Lecture/obj/Debug/net5.0/Lecture.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ryan/Google Drive/SNU/coding/Practice/Lecture/obj/Debug/net5.0/Lecture.AssemblyInfoInputs.cache
+/Users/ryan/Google Drive/SNU/coding/Practice/Lecture/obj/Debug/net5.0/Lecture.AssemblyInfo.cs
+/Users/ryan/Google Drive/SNU/coding/Practice/Lecture/obj/Debug/net5.0/Lecture.csproj.CoreCompileInputs.cache
+/Users/ryan/Google Drive/SNU/coding/Practice/Lecture/obj/Debug/net5.0/Lecture.dll
+/Users/ryan/Google Drive/SNU/coding/Practice/Lecture/obj/Debug/net5.0/ref/Lecture.dll
+/Users/ryan/Google Drive/SNU/coding/Practice/Lecture/obj/Debug/net5.0/Lecture.pdb
+/Users/ryan/Google Drive/SNU/coding/Practice/Lecture/obj/Debug/net5.0/Lecture.genruntimeconfig.cache
